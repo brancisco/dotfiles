@@ -1,0 +1,6 @@
+require('user.nvim-tree')
+require('user.lsp')
+require('user.packer')
+require('user.telescope')
+require('user.options')
+require('user.remaps')
